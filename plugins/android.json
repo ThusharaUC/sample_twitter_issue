@@ -1,0 +1,47 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.ionicframework.twitterissue407594"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.ionicframework.twitterissue407594"
+        },
+        "cordova-plugin-geofence": {
+            "PACKAGE_NAME": "com.ionicframework.twitterissue407594"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.ionicframework.twitterissue407594"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.ionicframework.twitterissue407594"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.ionicframework.twitterissue407594"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.ionicframework.twitterissue407594"
+        },
+        "twitter-connect-plugin": {
+            "FABRIC_KEY": "0b1243b418cadf32db3daa227bdb8fe7de17acae",
+            "PACKAGE_NAME": "com.ionicframework.twitterissue407594"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-add-swift-support": {
+            "PACKAGE_NAME": "com.ionicframework.twitterissue407594"
+        },
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.ionicframework.twitterissue407594"
+        },
+        "es6-promise-plugin": {
+            "PACKAGE_NAME": "com.ionicframework.twitterissue407594"
+        }
+    }
+}
